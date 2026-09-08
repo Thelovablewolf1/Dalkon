@@ -1,0 +1,9 @@
+# robots.txt — dalkonenterprises.com
+User-agent: *
+Allow: /
+
+# Block nothing: this is a single-page marketing site and every URL
+# should be crawlable. Add Disallow rules here only if you later add
+# admin, staging or thank-you pages you don't want indexed.
+
+Sitemap: https://www.dalkonenterprises.com/sitemap.xml
